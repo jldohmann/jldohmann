@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Jesse 👋
 
-<!--
-**jldohmann/jldohmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a technical writing background who is passionate about helping people create great documentation (amongst other things). I love automation, video games and cooking.
 
-Here are some ideas to get you started:
+## Get in touch
+:bird: Twitter: [fourierfiend](https://twitter.com/fourierfiend) <br>
+:link: LinkedIn: [jldohmann](https://www.linkedin.com/in/jldohmann/) <br>
+:globe_with_meridians: Website: [jessed](https://jldohmann.netlify.app) <br>
+:black_nib: Blog: [Coffee With Code](https://jldohmann-blog.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+
+~ :seedling:
