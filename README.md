@@ -1,6 +1,6 @@
 # Hi, I'm Jesse 👋
 
-I'm a software developer with a technical writing background who is passionate about helping people create great documentation (amongst other things). I love automation, video games and cooking.
+I'm a programmer and technical writer who is passionate about helping people create great documentation (amongst other things). I love automation, video games and cooking.
 
 ## Get in touch
 :bird: Twitter: [fourierfiend](https://twitter.com/fourierfiend) <br>
